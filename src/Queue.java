@@ -46,7 +46,7 @@ public class Queue<T> {
             System.out.println("List is empty");
             return 0;
         } else {
-            System.out.println("Size of the list is:" + l.size());
+            System.out.println("Size of the list IS:" + l.size());
         }
         return l.size();
     }
